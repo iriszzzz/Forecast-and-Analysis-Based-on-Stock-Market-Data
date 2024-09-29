@@ -1,5 +1,5 @@
 # Forecast-and-Analysis-Based-on-Stock-Market-Data
-> This record and share the project of [OM course](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=112&Sem=1&CrsNo=517411&lang=zh-tw) about useing Python to perform predictive analysis on Asian stock markets, including the following main components:
+> This record and share the project of [Operation Management course](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=112&Sem=1&CrsNo=517411&lang=zh-tw) about useing Python to perform predictive analysis on Asian stock markets, including the following main components:
 
 ### 1. Moving Average Prediction (Japanese Stock Market)
 
