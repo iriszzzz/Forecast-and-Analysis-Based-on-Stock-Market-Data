@@ -49,3 +49,5 @@ Accuracy comparison of different prediction methods:
 👨‍🏫 Advicing Professor : ZHI-XUAN WANG
 
 ###### tags:  `Production and Operation Management` `Statsmodels API`  `sklearn` `matplotlib` `numpy` `SP500` `Linear Regression` `Exponential Smoothing`
+
+> 🔍 Watch MORE ➜ [My GitHub](https://github.com/iriszzzz)
